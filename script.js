@@ -2,7 +2,7 @@
  * GANTI INI ke alamat backend kamu di Pterodactyl.
  * Contoh: "http://123.45.67.89:11547"
  */
-const API_URL = "http://pterodactyl:11547";
+const API_URL = "https://angelinlegal.pteroqdactyl.my.id:11547/";
 
 const nomorEl = document.getElementById("nomor");
 const pesanEl = document.getElementById("pesan");
